@@ -4,6 +4,8 @@ A SASS partial full of CSS helpers to decorate your HTML.
 ## Installation
 Simply include helpa.scss as a partial in your SASS main project file. 
 
+Don't have a SASS compiler? Not to worry. Just include the CSS file in the head of your website or application.
+
 ## Examples
 Some extracts from helpa.
 
