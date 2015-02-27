@@ -1,0 +1,201 @@
+/* Helpa */
+/* Created By Ian Briggs */
+
+.mtn {
+  margin-top: 0 !important;
+}
+
+.mln {
+  margin-left: 0 !important;
+}
+
+.mbn {
+  margin-bottom: 0 !important;
+}
+
+.mrn {
+  margin-right: 0 !important;
+}
+
+.mmn {
+  margin: 0 !important;
+}
+
+.ptn {
+  padding-top: 0 !important;
+}
+
+.pln {
+  padding-left: 0 !important;
+}
+
+.pbn {
+  padding-bottom: 0 !important;
+}
+
+.prn {
+  padding-right: 0 !important;
+}
+
+.ppn {
+  padding: 0 !important;
+}
+
+.pt {
+  padding-top: 10px !important;
+}
+
+.pb {
+  padding-bottom: 10px !important;
+}
+
+.pr {
+  padding-right: 10px !important;
+}
+
+.pl {
+  padding-left: 10px !important;
+}
+
+.mt {
+  margin-top: 10px !important;
+}
+
+.mb {
+  margin-bottom: 10px !important;
+}
+
+.mr {
+  margin-right: 10px !important;
+}
+
+.ml {
+  margin-left: 10px !important;
+}
+
+.ppt {
+  padding-top: 20px !important;
+}
+
+.ppb {
+  padding-bottom: 20px !important;
+}
+
+.ppr {
+  padding-right: 20px !important;
+}
+
+.ppl {
+  padding-left: 20px !important;
+}
+
+.mmt {
+  margin-top: 20px !important;
+}
+
+.mmb {
+  margin-bottom: 20px !important;
+}
+
+.mmr {
+  margin-right: 20px !important;
+}
+
+.mml {
+  margin-left: 20px !important;
+}
+
+.op20 {
+  opacity: 0.2 !important;
+  -moz-opacity: 0.2 !important;
+  -webkit-opacity: 0.2 !important;
+}
+
+.op50 {
+  opacity: 0.5 !important;
+  -moz-opacity: 0.5 !important;
+  -webkit-opacity: 0.5 !important;
+}
+
+.op80 {
+  opacity: 0.8 !important;
+  -moz-opacity: 0.8 !important;
+  -webkit-opacity: 0.8 !important;
+}
+
+.text-gray {
+  color: #555555 !important;
+}
+
+.text-gray-dark {
+  color: #333333 !important;
+}
+
+.text-gray-light {
+  color: #777777 !important;
+}
+
+.relative {
+  position: relative !important;
+}
+
+.absolute {
+  position: absolute !important;
+}
+
+.fixed {
+  position: fixed !important;
+}
+
+.ab-tl {
+  top: 20px !important;
+  left: 20px !important;
+}
+
+.ab-tr {
+  top: 20px !important;
+  right: 20px !important;
+}
+
+.ab-bl {
+  bottom: 20px !important;
+  left: 20px !important;
+}
+
+.ab-br {
+  bottom: 20px !important;
+  right: 20px !important;
+}
+
+.rotate90 {
+  transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+}
+
+.rotate180 {
+  transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+}
+
+.rotate270 {
+  transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+}
+
+.nolist {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.noselect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
