@@ -6,7 +6,7 @@
 
 @mixin rotate($deg){
   transform: rotate($deg);
-	-ms-transform: rotate($deg);
+  -ms-transform: rotate($deg);
   -webkit-transform: rotate($deg);
 }
 
@@ -171,22 +171,22 @@
   right:20px !important;
 }
 
-.rotate-90 {
-	@include rotate(90deg);
+.rotate90 {
+  @include rotate(90deg);
 }
 
-.rotate-180 {
-    @include rotate(180deg);
+.rotate180 {
+  @include rotate(180deg);
 }
 
-.rotate-270 {
-	@include rotate(270deg);
+.rotate270 {
+  @include rotate(270deg);
 }
 
 .nolist {
-	margin:0;
-	padding:0;
-	list-style:none;
+  margin:0;
+  padding:0;
+  list-style:none;
 }
 
 .noselect {
