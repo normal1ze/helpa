@@ -1,5 +1,5 @@
 /* Helpa */
-/* Created By Ian Briggs */
+/* Created By Ian Briggs https://github.com/IanJBriggs/helpa */
 
 .mtn {
   margin-top: 0 !important;
@@ -105,19 +105,19 @@
   margin-left: 20px !important;
 }
 
-.op20 {
+.op-20 {
   opacity: 0.2 !important;
   -moz-opacity: 0.2 !important;
   -webkit-opacity: 0.2 !important;
 }
 
-.op50 {
+.op-50 {
   opacity: 0.5 !important;
   -moz-opacity: 0.5 !important;
   -webkit-opacity: 0.5 !important;
 }
 
-.op80 {
+.op-80 {
   opacity: 0.8 !important;
   -moz-opacity: 0.8 !important;
   -webkit-opacity: 0.8 !important;
@@ -167,22 +167,29 @@
   right: 20px !important;
 }
 
-.rotate90 {
+.rotate-90 {
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
 }
 
-.rotate180 {
+.rotate-180 {
   transform: rotate(180deg);
   -ms-transform: rotate(180deg);
   -webkit-transform: rotate(180deg);
 }
 
-.rotate270 {
+.rotate-270 {
   transform: rotate(270deg);
   -ms-transform: rotate(270deg);
   -webkit-transform: rotate(270deg);
+}
+
+.truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
 }
 
 .nolist {
