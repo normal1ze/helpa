@@ -4,6 +4,13 @@
   -webkit-opacity: $amount !important;
 }
 
+@mixin rotate($deg){
+  transform: rotate($deg);
+	-ms-transform: rotate($deg);
+  -webkit-transform: rotate($deg);
+}
+
+
 .mtn {
   margin-top:0 !important;
 }
@@ -162,6 +169,24 @@
 .ab-br {
   bottom:20px !important;
   right:20px !important;
+}
+
+.rotate-90 {
+	@include rotate(90deg);
+}
+
+.rotate-180 {
+    @include rotate(180deg);
+}
+
+.rotate-270 {
+	@include rotate(270deg);
+}
+
+.nolist {
+	margin:0;
+	padding:0;
+	list-style:none;
 }
 
 .noselect {
