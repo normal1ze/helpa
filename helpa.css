@@ -167,6 +167,14 @@
   right: 20px !important;
 }
 
+.to-front {
+	z-index:1200 !important;
+}
+
+.to-back {
+	z-index:-1 !important;
+}
+
 .cf:before,
 .cf:after {
 	content: " ";
