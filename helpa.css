@@ -167,6 +167,16 @@
   right: 20px !important;
 }
 
+.cf:before,
+.cf:after {
+	content: " ";
+	display: table;
+}
+
+.cf:after {
+	clear:both;
+}
+
 .rotate-90 {
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
