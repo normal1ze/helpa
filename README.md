@@ -45,4 +45,8 @@ Some extracts from helpa.
 `<div class="text-gray-light"></div>`
 
 ####Rotation
-`<div class="rotate90"></div>`
+`<div class="rotate-90"></div>`
+
+####Ordering
+`<div class="to-front"></div>`
+`<div class="to-back"></div>`
